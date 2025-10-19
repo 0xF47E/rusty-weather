@@ -1,0 +1,11 @@
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/locale-dbfe77b20e7c6117.d: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/mod.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/ffi.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/langinfo.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/macos/mod.rs
+
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/liblocale-dbfe77b20e7c6117.rlib: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/mod.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/ffi.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/langinfo.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/macos/mod.rs
+
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/liblocale-dbfe77b20e7c6117.rmeta: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/mod.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/ffi.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/langinfo.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/macos/mod.rs
+
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/lib.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/mod.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/ffi.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/linux/langinfo.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/locale-0.2.2/src/macos/mod.rs:

@@ -1,0 +1,16 @@
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/open_meteo_rs-fcdd5f891cc06d0f.d: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/client.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/errors.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/location.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/air_quality.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/forecast.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/geocoding.rs
+
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/libopen_meteo_rs-fcdd5f891cc06d0f.rlib: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/client.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/errors.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/location.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/air_quality.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/forecast.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/geocoding.rs
+
+/home/urnotsafe/Development/github/rusty-weather/target/debug/deps/libopen_meteo_rs-fcdd5f891cc06d0f.rmeta: /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/lib.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/client.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/errors.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/location.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/air_quality.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/forecast.rs /home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/geocoding.rs
+
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/lib.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/client.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/errors.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/location.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/air_quality.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/forecast.rs:
+/home/urnotsafe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/open-meteo-rs-0.0.4/src/geocoding.rs:
+
+# env-dep:CARGO_PKG_NAME=open-meteo-rs
+# env-dep:CARGO_PKG_VERSION=0.0.4
